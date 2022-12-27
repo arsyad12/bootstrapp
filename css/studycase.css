@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(215, 250, 238);
+}
+#navbar{
+    font-size: 1.5rem;
+    font-weight: 100;
+    background-color: rgb(139, 245, 208);
+
+}
+
+.nav-link{
+color: rgb(255, 255, 255);
+}
+
+.navbar-brand{
+    color: white;
+    font-size: 1.5rem;
+    font-weight: 100;
+}
